@@ -88,7 +88,7 @@ The final output is an enhanced image that has gone through color correction, wh
 - [@anshVerma](https://www.github.com/anshVerma02)
 - [@smriti]()
 - [@swayam]()
-This project was developed collaboratively. Feel free to contribute or fork the repository for your own applications.
+- This project was developed collaboratively. Feel free to contribute or fork the repository for your own applications.
 
 
 ## License

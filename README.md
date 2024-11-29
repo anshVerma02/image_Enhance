@@ -86,7 +86,7 @@ The final output is an enhanced image that has gone through color correction, wh
 ## Authors / Contributors
 
 - [@anshVerma](https://www.github.com/anshVerma02)
-- [@smriti]()
+- [@smriti](https://www.github.com/smritim567)
 - [@swayam]()
 - This project was developed collaboratively. Feel free to contribute or fork the repository for your own applications.
 
